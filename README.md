@@ -50,7 +50,8 @@ I am currently building a **Solar PV Monitoring & Tracking Prototype**. Here are
 ---
 
 ### 📫 Get in Touch
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: www.linkedin.com/in/
+denis-ngei-55b2a6310
 - Email: your.email@example.com
 - Location: Kenya
 
