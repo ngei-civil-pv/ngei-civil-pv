@@ -37,8 +37,7 @@ I am currently building a **Solar PV Monitoring & Tracking Prototype**. Here are
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white)
 ![Civil 3D](https://img.shields.io/badge/Civil%203D-FF0000?style=flat&logo=autodesk&logoColor=white)
 
-**Currently Learning:** NREL SAM, PVSyst, STAAD Pro, Arduino/ESP32 for prototype
-
+**Currently Learning:** NREL SAM, PVSyst, STAAD Pro for structural analysis.
 ---
 
 ### 📂 Featured Projects
