@@ -7,7 +7,7 @@
 
 ### 🚀 About My Journey
 
-I combine **civil engineering**, **GIS analysis**, and **solar energy modelling** using python to design practical, data-driven renewable energy solutions. Currently building a **Solar PV Monitoring & Tracking Prototype** while sharpening my skills in industry-standard tools.
+I combine **civil engineering**, **GIS analysis**, **performance analysis** and **solar energy modelling** using python to design practical, data-driven renewable energy solutions. Currently building a **Solar PV Monitoring & Tracking Prototype** while sharpening my skills in industry-standard tools.
 
 ---
 
